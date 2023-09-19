@@ -5,4 +5,4 @@ in future, i think that this program language may be really useful and helpful!
 
 later, i will put documentation: what is it, how it works, how to use it, e.t.c
 
-![image](https://github.com/werxqq0/Latte/assets/122512138/03b743b0-8f69-4fcd-a484-99cb2f9a9251)
+![Без имени-1](https://github.com/werxqq0/Latte/assets/122512138/ae214c11-9575-427a-abee-7efe5bbb0d1c)
